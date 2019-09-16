@@ -5,7 +5,7 @@
 
 
 def introduction_with_language(Josh, React)
-  puts "Hi my name is #{Josh} 
+  puts "Hi my name is #{Josh} and i am learning to program 
 end
 
 
