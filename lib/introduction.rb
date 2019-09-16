@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
-def introduction_with_language(name = Josh language = React)
+def introduction_with_language(name = "Josh" language = "React")
   puts "Hi my name is #{name} and i am learning to program in #{language}."
 end
 
